@@ -1,0 +1,22 @@
+{
+  "name": "wp-to-hygraph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@hygraph/management-sdk": "^1.5.2",
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.1",
+    "form-data": "^4.0.4",
+    "graphql-request": "^7.2.0",
+    "jsdom": "^26.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}
